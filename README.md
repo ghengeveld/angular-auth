@@ -1,0 +1,4 @@
+angular-auth
+============
+
+AngularJS authentication
